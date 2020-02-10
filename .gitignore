@@ -1,5 +1,6 @@
 pq_metadata.csv
 txt_input/
+output/
 .DS_Store
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
