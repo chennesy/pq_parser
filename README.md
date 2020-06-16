@@ -4,7 +4,9 @@ This notebook includes a python function to parse newspaper articles downloaded 
 Created by Cody Hennesy and David Naughton (University of Minnesota, Twin Cities, Libraries). Email Cody (chennesy@umn.edu) with any questions. 
 
 UPDATE (Feb 3, 2020):
-ProQuest re-enabled the save as text option, so the parsing code included here is once again working. If you would like instead save your documents as HTML files, see instead [Jae Yeon Kim's ProQuest parser](https://github.com/jaeyk/proquest_parser).
+ProQuest re-enabled the save as text option, so the parsing code included here is once again working. 
+
+For an alternative approach using R and saving documents as HTML files, [Jae Yeon Kim's Tidy Ethnic News parser](https://github.com/jaeyk/tidyethnicnews).
 
 See also: [Factiva parser](https://github.com/chennesy/factiva_parser)
 
